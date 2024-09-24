@@ -1,7 +1,7 @@
 # Wanderlust
 
 
-#📍Goal of this project
+# Goal of this project📍
 
 At its core, this project embodies two important aims:
 
