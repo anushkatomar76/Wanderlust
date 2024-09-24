@@ -2,6 +2,8 @@
 
 ## The Ultimate Travel Blog 🌍✈️ for You
 
+![Preview Image](https://github.com/krishnaacharyaa/wanderlust/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
+
 # Goal of this project📍
 
 At its core, this project embodies two important aims:
