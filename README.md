@@ -1,5 +1,3 @@
-# Wanderlust
-
 
 # Goal of this project📍
 
