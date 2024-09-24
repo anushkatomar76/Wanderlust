@@ -1,3 +1,6 @@
+# Wanderlust
+
+## The Ultimate Travel Blog 🌍✈️ for You
 
 # Goal of this project📍
 
