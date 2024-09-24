@@ -1,7 +1,8 @@
 # Wanderlust
 
 
-📍Goal of this project
+#📍Goal of this project
+
 At its core, this project embodies two important aims:
 
 1. Start Your Open Source Journey: It's aimed to kickstart your open-source journey. Here, you'll learn the basics of Git and get a solid grip on the MERN stack and I strongly believe that learning and building should go hand in hand.
